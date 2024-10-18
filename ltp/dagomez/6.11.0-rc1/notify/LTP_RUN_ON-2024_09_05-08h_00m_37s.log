@@ -1,0 +1,53 @@
+Test Start Time: Thu Sep  5 08:00:38 2024
+-----------------------------------------
+Testcase                                           Result     Exit Value
+--------                                           ------     ----------
+inotify_init1_01                                   PASS       0    
+inotify_init1_02                                   PASS       0    
+inotify01                                          PASS       0    
+inotify02                                          PASS       0    
+inotify03                                          PASS       0    
+inotify04                                          PASS       0    
+inotify05                                          PASS       0    
+inotify06                                          PASS       0    
+inotify07                                          CONF       32   
+inotify08                                          CONF       32   
+inotify09                                          PASS       0    
+inotify10                                          PASS       0    
+inotify11                                          PASS       0    
+inotify12                                          PASS       0    
+fanotify01                                         PASS       0    
+fanotify02                                         PASS       0    
+fanotify03                                         PASS       0    
+fanotify04                                         PASS       0    
+fanotify05                                         PASS       0    
+fanotify06                                         PASS       0    
+fanotify07                                         PASS       0    
+fanotify08                                         PASS       0    
+fanotify09                                         PASS       0    
+fanotify10                                         PASS       0    
+fanotify11                                         PASS       0    
+fanotify12                                         PASS       0    
+fanotify13                                         PASS       0    
+fanotify14                                         PASS       0    
+fanotify15                                         PASS       0    
+fanotify16                                         PASS       0    
+fanotify17                                         PASS       0    
+fanotify18                                         PASS       0    
+fanotify19                                         PASS       0    
+fanotify20                                         PASS       0    
+fanotify21                                         PASS       0    
+fanotify22                                         PASS       0    
+fanotify23                                         PASS       0    
+mq_notify01                                        PASS       0    
+mq_notify02                                        PASS       0    
+mq_notify03                                        PASS       0    
+
+-----------------------------------------------
+Total Tests: 40
+Total Skipped Tests: 2
+Total Failures: 0
+Kernel Version: 6.11.0-rc1
+Machine Architecture: x86_64
+Hostname: debian12-notify
+

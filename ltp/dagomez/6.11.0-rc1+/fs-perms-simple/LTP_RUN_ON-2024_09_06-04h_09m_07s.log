@@ -1,0 +1,31 @@
+Test Start Time: Fri Sep  6 04:09:07 2024
+-----------------------------------------
+Testcase                                           Result     Exit Value
+--------                                           ------     ----------
+fs_perms01                                         PASS       0    
+fs_perms02                                         PASS       0    
+fs_perms03                                         PASS       0    
+fs_perms04                                         PASS       0    
+fs_perms05                                         PASS       0    
+fs_perms06                                         PASS       0    
+fs_perms07                                         PASS       0    
+fs_perms08                                         PASS       0    
+fs_perms09                                         PASS       0    
+fs_perms10                                         PASS       0    
+fs_perms11                                         PASS       0    
+fs_perms12                                         PASS       0    
+fs_perms13                                         PASS       0    
+fs_perms14                                         PASS       0    
+fs_perms15                                         PASS       0    
+fs_perms16                                         PASS       0    
+fs_perms17                                         PASS       0    
+fs_perms18                                         PASS       0    
+
+-----------------------------------------------
+Total Tests: 18
+Total Skipped Tests: 0
+Total Failures: 0
+Kernel Version: 6.11.0-rc1+
+Machine Architecture: x86_64
+Hostname: debian12-fs-perms-simple
+

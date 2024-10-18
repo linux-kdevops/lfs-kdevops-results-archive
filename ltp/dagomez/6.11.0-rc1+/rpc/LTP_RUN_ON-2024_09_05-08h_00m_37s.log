@@ -1,0 +1,64 @@
+Test Start Time: Thu Sep  5 08:00:38 2024
+-----------------------------------------
+Testcase                                           Result     Exit Value
+--------                                           ------     ----------
+rpc01                                              PASS       0    
+rpcinfo                                            PASS       0    
+rpc_pmap_set                                       PASS       0    
+rpc_pmap_unset                                     PASS       0    
+rpc_pmap_getport                                   PASS       0    
+rpc_pmap_getmaps                                   PASS       0    
+rpc_pmap_rmtcall                                   FAIL       1    
+rpc_get_myaddress                                  PASS       0    
+rpc_authnone_create                                PASS       0    
+rpc_authunix_create                                PASS       0    
+rpc_authunix_create_default                        PASS       0    
+rpc_auth_destroy                                   PASS       0    
+rpc_clnt_broadcast                                 FAIL       1    
+rpc_svc_destroy                                    FAIL       1    
+rpc_svcfd_create                                   FAIL       1    
+rpc_svctcp_create                                  PASS       0    
+rpc_svcudp_create                                  PASS       0    
+rpc_svcraw_create                                  PASS       0    
+rpc_svcudp_bufcreate                               PASS       0    
+rpc_clnt_destroy                                   PASS       0    
+rpc_clnt_create                                    PASS       0    
+rpc_clntraw_create                                 PASS       0    
+rpc_clnttcp_create                                 PASS       0    
+rpc_clntudp_create                                 PASS       0    
+rpc_clntudp_bufcreate                              PASS       0    
+rpc_clnt_pcreateerror                              PASS       0    
+rpc_clnt_perrno                                    PASS       0    
+rpc_clnt_perror                                    PASS       0    
+rpc_clnt_spcreateerror                             PASS       0    
+rpc_clnt_sperrno                                   PASS       0    
+rpc_clnt_sperror                                   PASS       0    
+rpc_svcerr_noproc                                  PASS       0    
+rpc_svcerr_noprog                                  PASS       0    
+rpc_svcerr_progvers                                PASS       0    
+rpc_svcerr_systemerr                               PASS       0    
+rpc_svcerr_auth                                    PASS       0    
+rpc_svcerr_weakauth                                PASS       0    
+rpc_xprt_register                                  FAIL       1    
+rpc_xprt_unregister                                FAIL       1    
+rpc_svc_register                                   PASS       0    
+rpc_svc_unregister                                 PASS       0    
+rpc_registerrpc                                    PASS       0    
+rpc_clnt_call                                      PASS       0    
+rpc_callrpc                                        PASS       0    
+rpc_clnt_freeres                                   PASS       0    
+rpc_clnt_geterr                                    PASS       0    
+rpc_clnt_control                                   PASS       0    
+rpc_svc_getcaller                                  PASS       0    
+rpc_svc_freeargs                                   PASS       0    
+rpc_svc_getargs                                    PASS       0    
+rpc_svc_sendreply                                  PASS       0    
+
+-----------------------------------------------
+Total Tests: 51
+Total Skipped Tests: 0
+Total Failures: 6
+Kernel Version: 6.11.0-rc1
+Machine Architecture: x86_64
+Hostname: debian12-rpc
+

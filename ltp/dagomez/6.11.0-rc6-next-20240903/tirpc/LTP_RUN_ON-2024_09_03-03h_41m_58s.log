@@ -1,0 +1,54 @@
+Test Start Time: Tue Sep  3 03:41:58 2024
+-----------------------------------------
+Testcase                                           Result     Exit Value
+--------                                           ------     ----------
+tirpc_rpcb_getaddr                                 PASS       0    
+tirpc_rpcb_getmaps                                 PASS       0    
+tirpc_authnone_create                              PASS       0    
+tirpc_authsys_create                               PASS       0    
+tirpc_authsys_create_default                       PASS       0    
+tirpc_clnt_dg_create                               PASS       0    
+tirpc_svc_dg_create                                PASS       0    
+tirpc_clnt_vc_create                               PASS       0    
+tirpc_svc_vc_create                                PASS       0    
+tirpc_bottomlevel_clnt_call                        PASS       0    
+tirpc_clnt_pcreateerror                            PASS       0    
+tirpc_clnt_perrno                                  PASS       0    
+tirpc_clnt_perror                                  PASS       0    
+tirpc_svcerr_noproc                                PASS       0    
+tirpc_svcerr_noprog                                PASS       0    
+tirpc_svcerr_progvers                              PASS       0    
+tirpc_svcerr_systemerr                             PASS       0    
+tirpc_svcerr_weakauth                              PASS       0    
+tirpc_clnt_tli_create                              PASS       0    
+tirpc_svc_tli_create                               PASS       0    
+tirpc_rpcb_set                                     PASS       0    
+tirpc_rpcb_unset                                   PASS       0    
+tirpc_rpcb_rmtcall                                 FAIL       1    
+tirpc_svc_reg                                      PASS       0    
+tirpc_svc_unreg                                    PASS       0    
+tirpc_expertlevel_clnt_call                        PASS       0    
+tirpc_clnt_tp_create                               PASS       0    
+tirpc_clnt_tp_create_timed                         PASS       0    
+tirpc_svc_tp_create                                PASS       0    
+tirpc_interlevel_clnt_call                         PASS       0    
+tirpc_clnt_control                                 PASS       0    
+tirpc_rpc_reg                                      PASS       0    
+tirpc_rpc_call                                     PASS       0    
+tirpc_rpc_broadcast                                FAIL       1    
+tirpc_rpc_broadcast_exp                            FAIL       1    
+tirpc_clnt_create                                  PASS       0    
+tirpc_clnt_create_timed                            PASS       0    
+tirpc_svc_create                                   PASS       0    
+tirpc_toplevel_clnt_call                           PASS       0    
+tirpc_clnt_destroy                                 PASS       0    
+tirpc_svc_destroy                                  PASS       0    
+
+-----------------------------------------------
+Total Tests: 41
+Total Skipped Tests: 0
+Total Failures: 3
+Kernel Version: 6.11.0-rc6-next-20240903
+Machine Architecture: x86_64
+Hostname: debian12-tirpc
+

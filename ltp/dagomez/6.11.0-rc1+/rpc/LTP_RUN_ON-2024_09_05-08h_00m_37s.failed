@@ -1,0 +1,6 @@
+rpc_pmap_rmtcall rpc_test.sh -s rpc_svc_1 -c rpc_pmap_rmtcall
+rpc_clnt_broadcast rpc_test.sh -s rpc_svc_1 -c rpc_clnt_broadcast
+rpc_svc_destroy rpc_test.sh -c rpc_svc_destroy
+rpc_svcfd_create rpc_test.sh -c rpc_svcfd_create
+rpc_xprt_register rpc_test.sh -c rpc_xprt_register
+rpc_xprt_unregister rpc_test.sh -c rpc_xprt_unregister

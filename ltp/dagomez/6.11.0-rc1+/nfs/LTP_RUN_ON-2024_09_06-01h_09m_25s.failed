@@ -1,0 +1,9 @@
+nfs41_03 nfs03.sh -v 4.1 -t tcp
+nfs42_03 nfs03.sh -v 4.2 -t tcp
+nfs3t_ipv6_03 nfs03.sh -6 -v 3 -t tcp
+nfs4_ipv6_03 nfs03.sh -6 -v 4 -t tcp
+nfs41_ipv6_03 nfs03.sh -6 -v 4.1 -t tcp
+nfs42_ipv6_03 nfs03.sh -6 -v 4.2 -t tcp
+nfslock3t_01 nfslock01.sh -v 3 -t tcp
+nfslock3t_ipv6_01 nfslock01.sh -6 -v 3 -t tcp
+nfsstat3_01 nfsstat01.sh

@@ -1,0 +1,17 @@
+cve-2011-2496 vma03
+cve-2017-2636 pty05
+cve-2017-7616 set_mempolicy05
+cve-2017-17805 af_alg02
+cve-2017-18075 pcrypt_aead01
+cve-2018-5803 sctp_big_chunk
+cve-2018-7566 snd_seq01
+cve-2018-10124 kill13
+cve-2018-19854 crypto_user01
+cve-2018-1000204 ioctl_sg01
+cve-2020-11494 pty04
+cve-2020-14416 pty03
+cve-2021-3609 can_bcm01
+cve-2021-22555 setsockopt08 -i 100
+cve-2023-1829 tcindex01
+cve-2023-0461 setsockopt10
+cve-2020-25704 perf_event_open03

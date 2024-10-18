@@ -1,0 +1,89 @@
+Test Start Time: Tue Sep  3 03:41:58 2024
+-----------------------------------------
+Testcase                                           Result     Exit Value
+--------                                           ------     ----------
+fcntl01                                            PASS       0    
+fcntl01_64                                         PASS       0    
+fcntl02                                            PASS       0    
+fcntl02_64                                         PASS       0    
+fcntl03                                            PASS       0    
+fcntl03_64                                         PASS       0    
+fcntl04                                            PASS       0    
+fcntl04_64                                         PASS       0    
+fcntl05                                            PASS       0    
+fcntl05_64                                         PASS       0    
+fcntl07                                            PASS       0    
+fcntl07_64                                         PASS       0    
+fcntl08                                            PASS       0    
+fcntl08_64                                         PASS       0    
+fcntl09                                            PASS       0    
+fcntl09_64                                         PASS       0    
+fcntl10                                            PASS       0    
+fcntl10_64                                         PASS       0    
+fcntl11                                            PASS       0    
+fcntl11_64                                         PASS       0    
+fcntl12                                            PASS       0    
+fcntl12_64                                         PASS       0    
+fcntl13                                            PASS       0    
+fcntl13_64                                         PASS       0    
+fcntl14                                            PASS       0    
+fcntl14_64                                         PASS       0    
+fcntl15                                            PASS       0    
+fcntl15_64                                         PASS       0    
+fcntl16                                            PASS       0    
+fcntl16_64                                         PASS       0    
+fcntl17                                            PASS       0    
+fcntl17_64                                         PASS       0    
+fcntl18                                            PASS       0    
+fcntl18_64                                         PASS       0    
+fcntl19                                            PASS       0    
+fcntl19_64                                         PASS       0    
+fcntl20                                            PASS       0    
+fcntl20_64                                         PASS       0    
+fcntl21                                            PASS       0    
+fcntl21_64                                         PASS       0    
+fcntl22                                            PASS       0    
+fcntl22_64                                         PASS       0    
+fcntl23                                            PASS       0    
+fcntl23_64                                         PASS       0    
+fcntl24                                            PASS       0    
+fcntl24_64                                         PASS       0    
+fcntl25                                            PASS       0    
+fcntl25_64                                         PASS       0    
+fcntl26                                            PASS       0    
+fcntl26_64                                         PASS       0    
+fcntl27                                            PASS       0    
+fcntl27_64                                         PASS       0    
+fcntl28                                            PASS       0    
+fcntl28_64                                         PASS       0    
+fcntl29                                            PASS       0    
+fcntl29_64                                         PASS       0    
+fcntl30                                            PASS       0    
+fcntl30_64                                         PASS       0    
+fcntl31                                            PASS       0    
+fcntl31_64                                         PASS       0    
+fcntl32                                            PASS       0    
+fcntl32_64                                         PASS       0    
+fcntl33                                            PASS       0    
+fcntl33_64                                         PASS       0    
+fcntl34                                            PASS       0    
+fcntl34_64                                         PASS       0    
+fcntl35                                            PASS       0    
+fcntl35_64                                         PASS       0    
+fcntl36                                            PASS       0    
+fcntl36_64                                         PASS       0    
+fcntl37                                            PASS       0    
+fcntl37_64                                         PASS       0    
+fcntl38                                            PASS       0    
+fcntl38_64                                         PASS       0    
+fcntl39                                            PASS       0    
+fcntl39_64                                         PASS       0    
+
+-----------------------------------------------
+Total Tests: 76
+Total Skipped Tests: 0
+Total Failures: 0
+Kernel Version: 6.11.0-rc6-next-20240903
+Machine Architecture: x86_64
+Hostname: debian12-fcntl
+

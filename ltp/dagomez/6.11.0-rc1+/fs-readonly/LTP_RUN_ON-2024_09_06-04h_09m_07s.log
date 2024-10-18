@@ -1,0 +1,68 @@
+Test Start Time: Fri Sep  6 04:09:07 2024
+-----------------------------------------
+Testcase                                           Result     Exit Value
+--------                                           ------     ----------
+test_robind01                                      CONF       32   
+test_robind02                                      CONF       32   
+test_robind03                                      CONF       32   
+test_robind04                                      CONF       32   
+test_robind05                                      CONF       32   
+test_robind06                                      CONF       32   
+test_robind07                                      CONF       32   
+test_robind08                                      CONF       32   
+test_robind09                                      CONF       32   
+test_robind10                                      CONF       32   
+test_robind11                                      CONF       32   
+test_robind12                                      CONF       32   
+test_robind13                                      CONF       32   
+test_robind14                                      CONF       32   
+test_robind15                                      CONF       32   
+test_robind16                                      CONF       32   
+test_robind17                                      CONF       32   
+test_robind18                                      CONF       32   
+test_robind19                                      CONF       32   
+test_robind20                                      CONF       32   
+test_robind21                                      CONF       32   
+test_robind22                                      CONF       32   
+test_robind23                                      CONF       32   
+test_robind24                                      CONF       32   
+test_robind25                                      CONF       32   
+test_robind26                                      CONF       32   
+test_robind27                                      CONF       32   
+test_robind28                                      CONF       32   
+test_robind29                                      CONF       32   
+test_robind30                                      CONF       32   
+test_robind31                                      CONF       32   
+test_robind32                                      CONF       32   
+test_robind33                                      CONF       32   
+test_robind34                                      CONF       32   
+test_robind35                                      CONF       32   
+test_robind36                                      CONF       32   
+test_robind37                                      CONF       32   
+test_robind38                                      CONF       32   
+test_robind39                                      CONF       32   
+test_robind40                                      CONF       32   
+test_robind41                                      CONF       32   
+test_robind42                                      CONF       32   
+test_robind43                                      CONF       32   
+test_robind44                                      CONF       32   
+test_robind45                                      CONF       32   
+test_robind46                                      CONF       32   
+test_robind47                                      CONF       32   
+test_robind48                                      CONF       32   
+test_robind49                                      CONF       32   
+test_robind50                                      CONF       32   
+test_robind51                                      CONF       32   
+test_robind52                                      CONF       32   
+test_robind53                                      CONF       32   
+test_robind54                                      CONF       32   
+test_robind55                                      CONF       32   
+
+-----------------------------------------------
+Total Tests: 55
+Total Skipped Tests: 55
+Total Failures: 0
+Kernel Version: 6.11.0-rc1+
+Machine Architecture: x86_64
+Hostname: debian12-fs-readonly
+

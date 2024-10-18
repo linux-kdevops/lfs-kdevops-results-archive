@@ -1,0 +1,23 @@
+Test Start Time: Thu Sep  5 08:00:38 2024
+-----------------------------------------
+Testcase                                           Result     Exit Value
+--------                                           ------     ----------
+smack_set_ambient                                  CONF       32   
+smack_set_current                                  CONF       32   
+smack_set_doi                                      CONF       32   
+smack_set_netlabel                                 CONF       32   
+smack_set_socket_labels                            CONF       32   
+smack_set_cipso                                    CONF       32   
+smack_set_direct                                   CONF       32   
+smack_set_load                                     CONF       32   
+smack_set_onlycap                                  CONF       32   
+smack_file_access                                  CONF       32   
+
+-----------------------------------------------
+Total Tests: 10
+Total Skipped Tests: 10
+Total Failures: 0
+Kernel Version: 6.11.0-rc1
+Machine Architecture: x86_64
+Hostname: debian12-smack
+
